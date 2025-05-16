@@ -11,3 +11,7 @@ theme = "bcds"
     lastUpdated = "May 16, 2025"
     credit = 'DMX Studio'
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
