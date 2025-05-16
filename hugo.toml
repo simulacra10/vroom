@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BCDS Blog'
+theme = "bcds"
+
+
+[params]
+    address     = "8673 Commerce Dr #11, Easton, MD 21601"
+    phone       = "(410) 822-4411"
+    email       = "info@baycountrydrivingschool.com"
+    lastUpdated = "May 16, 2025"
+    credit = 'DMX Studio'
+

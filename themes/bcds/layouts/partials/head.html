@@ -1,0 +1,18 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="language" content="English">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href="{{ "images/Bay-Country-DS.png" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/bootstrap.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/style.css" | relURL }}">
+  <link rel="stylesheet" href="{{ "css/animate.min.css" | relURL }}">
+  <link href="https://www.tds.ms/assets/global/plugins/webfonts/v6.4/css/all.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,500&display=swap" rel="stylesheet">
+  <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+  <style>
+    #primary-menu ul li.tab-home > a {
+      background: rgb(251,126,41);
+      color: #000;
+    }
+  </style>
+</head>

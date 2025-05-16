@@ -1,0 +1,71 @@
+<header id="header" class="full-header">
+  {{/* Top bar */}}
+  <nav id="top-header">
+    <div class="container">
+      <div class="col-md-12 col-sm-12 col-xs-12 aniboxes animate__animated animate__le">
+        <span class="contact_top">
+          <a tabindex="0" href="tel:(410) 822-4411" aria-label="(410) 822-4411">
+            <span class="fa-regular fa-phone"></span>
+            <span class="hidden-xs hidden-sm"><strong>(410) 822-4411</strong></span>
+          </a>
+          <a href="mailto:info@baycountrydrivingschool.com" aria-label="info@baycountrydrivingschool.com">
+            <span class="fa-regular fa-envelope"></span>
+            <span class="hidden-xs hidden-sm"> info@baycountrydrivingschool.com</span>
+          </a>
+        </span>
+        <a href="https://www.tdsm.app/CentralizeSP/Student/Login/MDBayCountry241129">
+          <span class="fa-regular fa-user"></span> Student Portal
+        </a>
+        <span class="follow hidden-xs">
+          <span>Follow us:</span>
+          <a aria-describedby="new-window" aria-label="Twitter" href="https://www.x.com/@BCDS21601">
+            <i class="fa-brands fa-x-twitter"></i>
+          </a>
+        </span>
+      </div>
+    </div>
+  </nav>
+
+  {{/* Main navigation */}}
+  <div id="header-wrap">
+    <div class="container">
+      <button title="Click to open menu" id="togglemeu" class="lines-button x">
+        <span class="lines"></span>
+        <span class="menutext">menu</span>
+      </button>
+      <div id="logo" class="aniboxes animate__animated animate__zoomIn">
+        <a href="{{ .Site.BaseURL }}">
+          <img width="300" height="166" src="{{ "images/Bay-Country-DS.png" | relURL }}" alt="{{ .Site.Title }} Logo">
+        </a>
+      </div>
+      <div class="menubar aniboxes animate__animated animate__zoomIn">
+        <nav id="primary-menu">
+          <ul style="touch-action: auto; flex-wrap: wrap;">
+            <li class="tab-home"><a class="nodropdown" href="{{ .Site.BaseURL }}">Home</a></li>
+            <li class="sub-menu">
+              <a class="hasdropdown" href="#">Services <span class="caret"></span></a>
+              <ul class="dropdown-menu dropdown-menu-right">
+                <li><a href="{{ "enroll/" | relURL }}">Drivers Education</a></li>
+                <li><a href="{{ "drive-test/" | relURL }}">Drive Test Car Rental</a></li>
+                <li><a href="{{ "btw-lessons/" | relURL }}">Behind the Wheel Lessons</a></li>
+                <li><a href="{{ "6-steps-to-license/" | relURL }}">6 Steps to Your License</a></li>
+              </ul>
+            </li>
+            <li class="tab-class"><a class="nodropdown" href="{{ "class-schedule/" | relURL }}">Class Schedule</a></li>
+            <li class="tab-faq"><a class="nodropdown" href="{{ "faq/" | relURL }}">FAQ/Resources</a></li>
+            <li class="tab-contact"><a class="nodropdown" href="{{ "contact-us/" | relURL }}">Contact</a></li>
+            <li class="tab-career"><a class="nodropdown" href="{{ "career/" | relURL }}">Career</a></li>
+            <li class="sub-menu">
+              <a class="hasdropdown" href="#">Login <span class="caret"></span></a>
+              <ul class="dropdown-menu dropdown-menu-right">
+                <li><a href="https://www.tdsm.app/CentralizeSP/Student/Login/MDBayCountry241129">Student Portal</a></li>
+                <li><a href="https://www.myeform5.net/MDBayCountry241129/Admin/Login.aspx">Admin Portal</a></li>
+                <li><a href="https://www.tds.ms/StaffMobile/Login/Login?encId=I/spWbYfMGTqABRb9XxuSb4iiOBItZuQ">Instructor Portal</a></li>
+              </ul>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </div>
+</header>

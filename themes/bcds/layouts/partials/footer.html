@@ -1,0 +1,64 @@
+<!-- layouts/partials/footer.html -->
+<footer class="footer dark">
+  <div class="clearfix"></div>
+  <article class="fotercontent">
+    <div class="container">
+      <div class="col-sm-4 col-md-4 col-xs-12 mb-1 contactinfo aniboxes animate__animated animate__zoomIn">
+        <h3>Quick Links</h3>
+        <ul class="fnav">
+          <li><a href="https://www.baycountrydrivingschool.com/about-us/">About Us</a></li>
+          <li><a href="https://www.baycountrydrivingschool.com/enroll/">Enroll</a></li>
+          <li><a href="https://www.baycountrydrivingschool.com/faq/">FAQ/Resources</a></li>
+          <li><a href="https://www.baycountrydrivingschool.com/contact-us/">Contact</a></li>
+          <li><a href="https://www.tdsm.app/CentralizeSP/Student/Login/MDBayCountry241129">Student Portal</a></li>
+          <li><a href="https://www.myeform5.net/MDBayCountry241129/Admin/Login.aspx">Admin Portal</a></li>
+          <li><a href="https://www.tdsm.app/StaffMobile/Login/Login?encId=I/spWbYfMGTqABRb9XxuSb4iiOBItZuQ">Instructor Portal</a></li>
+          <li><a href="{{ "accessibility-statement/" | relURL }}" aria-describedby="new-window">Accessibility Statement</a></li>
+        </ul>
+      </div>
+      <div class="col-sm-4 col-xs-12 mb-1 aniboxes animate__animated animate__zoomIn">
+        <h3><i class="fa-light fa-home"></i> Contact</h3>
+        <p><a href="https://maps.app.goo.gl/s9BLLa4RrMxrXixe6" target="_blank" rel="noopener">{{ .Site.Params.address }}</a></p>
+        <h3><i class="fa-light fa-phone"></i> Phone</h3>
+        <p><a href="tel:{{ .Site.Params.phone }}">{{ .Site.Params.phone }}</a></p>
+        <h3><i class="fa-light fa-envelope"></i> Email</h3>
+        <p><a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a></p>
+      </div>
+      <div class="col-sm-4 col-xs-12 text-center mb-1 contactinfo aniboxes animate__animated animate__zoomIn">
+        <p><img class="flogo" width="280" height="166" src="{{ "images/Bay-Country-DS.png" | relURL }}" alt="{{ .Site.Title }} Logo"></p>
+        <div class="img-group">
+          <a href="https://www.tdsm.app/CentralizeSP/Student/Login/MDBayCountry241129" target="_blank" rel="noopener">
+            <img width="110" height="110" src="{{ "images/bay-country-ds-student-login.png" | relURL }}" alt="Student Portal Login">
+          </a>
+          <a href="https://www.drivingschoolsoftware.com/certificates/ferpa-certificate.html"
+             onclick="return !window.open(this.href, 'width=600,height=600')" target="_blank" rel="noopener">
+            <img width="105" height="105"
+                 src="https://www.drivingschoolsoftware.com/certificates/images/badge-ferpa-100x100.png"
+                 alt="FERPA Certified Software" title="FERPA Certified Software">
+          </a>
+        </div>
+      </div>
+      <div class="clearfix"></div>
+    </div>
+  </article>
+  <div class="clearfix"></div>
+  <article id="copyrights">
+    <div class="container aniboxes animate__animated animate__zoomIn">
+      <div class="col-xs-12">
+        <p>© {{ now.Format "2006" }} {{ .Site.Title }} | <a href="https://driving-school-software.com/" title="Powered by Driving-School-Software.com">Powered by Driving-School-Software.com</a></p>
+        <p>Last Updated: {{ .Site.Params.lastUpdated }}</p>
+      </div>
+    </div>
+  </article>
+</footer>
+
+<div id="gotoTop" class="icon-angle-up"></div>
+
+<!-- JS includes -->
+<script src="{{ "js/jquery.js"         | relURL }}"></script>
+<script src="{{ "js/bootstrap.js"      | relURL }}"></script>
+<script src="{{ "js/swiper-bundle.js"  | relURL }}"></script>
+<script src="{{ "js/scripts.js"        | relURL }}"></script>
+<script src="{{ "js/type.js"           | relURL }}"></script>
+
+

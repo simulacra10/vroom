@@ -1,0 +1,9 @@
+name = "bcds"
+min_version = "0.76.0"
+license = "MIT"
+licenseURL = ""
+authors = [
+  { name = "Norman Bauer", email = "info@baycountrydrivingschool.com" }
+]
+description = "BCDS theme for Bay Country Driving School"
+version = "0.1.0"

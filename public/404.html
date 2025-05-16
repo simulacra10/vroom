@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>404 Not Found</title>
+  <style>
+    body {
+      margin: 0;
+      background: black;
+      overflow: hidden;
+      height: 100vh;
+      font-family: sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    .spotlight {
+      position: absolute;
+      top: 20%;
+      left: -100%;
+      width: 200%;
+      height: 100%;
+      background: radial-gradient(circle at center, rgba(255,255,255,1) 0%, rgba(255,255,255,0.3) 10%, rgba(0,0,0,0.9) 60%);
+       
+      animation: aroundWords 6s ease-in-out infinite;
+
+      pointer-events: none;
+      mix-blend-mode: screen;
+    }
+
+    .container {
+      position: relative;
+      z-index: 1;
+      color: black;
+    }
+
+    h1, h2 {
+      font-size: 6rem;
+      margin: 0;
+      color: black;
+      text-shadow: 0 0 0 transparent;
+      transition: text-shadow 0.3s;
+      mix-blend-mode: multiply;
+    }
+
+    h2 {
+      font-size: 2rem;
+    }
+
+    @keyframes aroundWords {
+  0%   { transform: translate(-20%, -20%); }
+  20%  { transform: translate(10%, -15%); }
+  40%  { transform: translate(15%, 10%); }
+  60%  { transform: translate(-10%, 20%); }
+  80%  { transform: translate(-15%, -10%); }
+  100% { transform: translate(-20%, -20%); }
+}
+ 
+
+ 
+html, body {
+  height: 100%;
+  margin: 0;
+  background-color: #000;    
+  color: #fff;               
+}
+
+ 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;   
+}
+
+ 
+.message {
+  font-family: Arial, sans-serif;
+  font-size: 4rem;
+  text-align: center;
+  position: relative;
+  z-index: 1;   
+}
+
+ 
+body::after {
+  content: "";
+  position: fixed;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+  pointer-events: none;   
+   
+  background-image: radial-gradient(circle at center, rgba(0,0,0,0) 8rem, rgba(0,0,0,1) 16rem);
+  background-repeat: no-repeat;
+   
+  background-size: 200% 200%;
+   
+  background-position: 40% 40%;
+   
+  animation: orbit 8s linear infinite;
+}
+
+ 
+@keyframes orbit {
+  0%   { background-position: 40% 40%; }   
+  25%  { background-position: 60% 40%; }   
+  50%  { background-position: 60% 60%; }   
+  75%  { background-position: 40% 60%; }   
+  100% { background-position: 40% 40%; }   
+}
+
+ 
+@media (prefers-reduced-motion: reduce) {
+  body::after {
+    animation: none;
+    background: none;   
+  }
+}
+
+  </style>
+</head>
+<body>
+  <div class="spotlight"></div>
+  <div class="container">
+    <h1>404</h1>
+    <h2>Page Not Found</h2>
+  </div>
+</body>
+</html>

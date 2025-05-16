@@ -1,0 +1,9 @@
+{{ define "main" }}
+  {{ range .Pages }}
+    <h2 style="color: #ff914d;"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+    {{ .Summary }}
+    
+    <p><a class="read-more" href="{{ .Permalink }}">Read more …</a></p>
+
+  {{ end }}
+{{ end }}
