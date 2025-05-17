@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'BCDS Blog'
+title = 'Vroom! The Blog for Bay Country Driving School'
 theme = "bcds"
 
 
