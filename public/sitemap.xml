@@ -2,51 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/car-basics/</loc>
+    <loc>https://example.org/car-basics/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/car-maintenance/</loc>
+    <loc>https://example.org/tags/car-maintenance/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/driving-tips/</loc>
+    <loc>https://example.org/tags/driving-tips/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/gdl/</loc>
+    <loc>https://example.org/tags/gdl/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/maryland-laws/</loc>
+    <loc>https://example.org/tags/maryland-laws/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/new-drivers/</loc>
+    <loc>https://example.org/tags/new-drivers/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/provisional-license/</loc>
+    <loc>https://example.org/tags/provisional-license/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/safe-driving/</loc>
+    <loc>https://example.org/tags/safe-driving/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.org/tags/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/teen-drivers/</loc>
+    <loc>https://example.org/tags/teen-drivers/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/teen-driving/</loc>
+    <loc>https://example.org/tags/teen-driving/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/md-graduated/</loc>
+    <loc>https://example.org/md-graduated/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.org/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/guide/</loc>
-    <lastmod>2025-06-01T16:38:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/partents-guide-to-coaching-a-teen-btw/</loc>
-    <lastmod>2025-06-01T16:38:19-04:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.org/categories/</loc>
   </url>
 </urlset>

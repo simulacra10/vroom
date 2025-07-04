@@ -2,80 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Vroom! The Blog for Bay Country Driving School</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://example.org/tags/</link>
     <description>Recent content in Tags on Vroom! The Blog for Bay Country Driving School</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 04 Jul 2025 08:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Car Maintenance</title>
-      <link>http://localhost:1313/tags/car-maintenance/</link>
+      <link>https://example.org/tags/car-maintenance/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/car-maintenance/</guid>
+      <guid>https://example.org/tags/car-maintenance/</guid>
       <description></description>
     </item>
     <item>
       <title>Driving Tips</title>
-      <link>http://localhost:1313/tags/driving-tips/</link>
+      <link>https://example.org/tags/driving-tips/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/driving-tips/</guid>
+      <guid>https://example.org/tags/driving-tips/</guid>
       <description></description>
     </item>
     <item>
       <title>GDL</title>
-      <link>http://localhost:1313/tags/gdl/</link>
+      <link>https://example.org/tags/gdl/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/gdl/</guid>
+      <guid>https://example.org/tags/gdl/</guid>
       <description></description>
     </item>
     <item>
       <title>Maryland Laws</title>
-      <link>http://localhost:1313/tags/maryland-laws/</link>
+      <link>https://example.org/tags/maryland-laws/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/maryland-laws/</guid>
+      <guid>https://example.org/tags/maryland-laws/</guid>
       <description></description>
     </item>
     <item>
       <title>New Drivers</title>
-      <link>http://localhost:1313/tags/new-drivers/</link>
+      <link>https://example.org/tags/new-drivers/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/new-drivers/</guid>
+      <guid>https://example.org/tags/new-drivers/</guid>
       <description></description>
     </item>
     <item>
       <title>Provisional License</title>
-      <link>http://localhost:1313/tags/provisional-license/</link>
+      <link>https://example.org/tags/provisional-license/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/provisional-license/</guid>
+      <guid>https://example.org/tags/provisional-license/</guid>
       <description></description>
     </item>
     <item>
       <title>Safe Driving</title>
-      <link>http://localhost:1313/tags/safe-driving/</link>
+      <link>https://example.org/tags/safe-driving/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/safe-driving/</guid>
+      <guid>https://example.org/tags/safe-driving/</guid>
       <description></description>
     </item>
     <item>
       <title>Teen Drivers</title>
-      <link>http://localhost:1313/tags/teen-drivers/</link>
+      <link>https://example.org/tags/teen-drivers/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/teen-drivers/</guid>
+      <guid>https://example.org/tags/teen-drivers/</guid>
       <description></description>
     </item>
     <item>
       <title>Teen Driving</title>
-      <link>http://localhost:1313/tags/teen-driving/</link>
+      <link>https://example.org/tags/teen-driving/</link>
       <pubDate>Fri, 04 Jul 2025 08:00:00 -0400</pubDate>
-      <guid>http://localhost:1313/tags/teen-driving/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Guide</title>
-      <link>http://localhost:1313/tags/guide/</link>
-      <pubDate>Sun, 01 Jun 2025 16:38:19 -0400</pubDate>
-      <guid>http://localhost:1313/tags/guide/</guid>
+      <guid>https://example.org/tags/teen-driving/</guid>
       <description></description>
     </item>
   </channel>
