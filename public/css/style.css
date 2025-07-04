@@ -3,6 +3,29 @@ html, body {
   margin: 0;
 }
 
+.circle-image {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.float-right {
+  float: right;
+  margin: 0 0 5rem 5rem;
+  max-width: 100%;
+}
+
+.float-left {
+  float: left;
+  margin: 0 10rem 0 0 ;
+  max-width: 100%;
+}
+
+
+
+
 .read-more {
   color: #ff914d;
 }
@@ -12,9 +35,15 @@ html, body {
   min-height: 100vh;  /* full viewport height */
 }
 
+/* constrain width and center the block */
 .site-content {
+  /* max-width: 1400px;     /* or whatever max width you prefer */
+  margin: 0 auto;       /* horizontal centering */
+  padding: 10rem 10rem 10rem 15rem;        /* optional breathing room */
   flex: 1;            /* take all available space */  
+  /* text-align: center;    centers text */  
 }
+
 .site-content h1 {
   color: #ff914d;
 }
@@ -29,13 +58,7 @@ footer {
 }
 
 
-/* constrain width and center the block */
-.site-content {
-  max-width: 800px;     /* or whatever max width you prefer */
-  margin: 0 auto;       /* horizontal centering */
-  padding: 2.5rem;        /* optional breathing room */
-  /* text-align: center;    centers text */  
-}
+
 
 
 
@@ -6659,4 +6682,25 @@ div#DSSLanguageTranslateorWidget.bl.clsfloat  .DSSFloatbox__list
     height: 16px!important; 
     vertical-align: middle!important;
 }
-/*End Bottom to top Translation widget*/
+/*End Bottom to top Translation widget*//* hide primary menu and show toggle button on small screens */
+@media (max-width: 768px) {
+  #primary-menu {
+    display: none;
+  }
+  #primary-menu.active {
+    display: block;
+  }
+}
+
+/* ensure the toggle button is visible on small screens */
+#togglemeu {
+  display: none;
+}
+@media (max-width: 768px) {
+  #togglemeu {
+    display: inline-block;
+  }
+}
+
+
+

@@ -3,6 +3,17 @@ languageCode = 'en-us'
 title = 'Vroom! The Blog for Bay Country Driving School'
 theme = "bcds"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+ignoreLogs = ['warning-goldmark-raw-html']
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
 
 [params]
     address     = "8673 Commerce Dr #11, Easton, MD 21601"
