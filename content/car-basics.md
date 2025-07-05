@@ -6,7 +6,7 @@ tags = ["Driving Tips", "New Drivers", "Car Maintenance", "Teen Drivers"]
 description = "Learn essential car care tips every new driver should know, including checking oil, tire pressure, dashboard lights, and jump-starting a battery."
 +++
 
-# Car Basics Every New Driver Should Know  
+
 **Checking Oil, Tire Pressure, Dashboard Lights, and Jump-Starting a Battery**
 
 Getting your license and finally hitting the road is a big deal—and let’s be honest, pretty exciting. But learning to drive doesn’t end when you pass your test. Now that you’ve got the keys, it’s time to learn how to take care of your car. Don’t worry—you don’t need to be a mechanic to keep your car in good shape. A few simple habits can go a long way toward keeping you safe, saving you money, and helping your car last longer.

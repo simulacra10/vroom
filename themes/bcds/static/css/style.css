@@ -40,7 +40,7 @@ html, body {
   /* max-width: 1400px;     /* or whatever max width you prefer */
   margin: 0 auto;       /* horizontal centering */
   padding: 10rem 10rem 10rem 15rem;        /* optional breathing room */
-  flex: 1;            /* take all available space */  
+  /*flex: 1;             take all available space */  
   /* text-align: center;    centers text */  
 }
 

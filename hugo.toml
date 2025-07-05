@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://vroom.baycountrydrivingschool.com/'
 languageCode = 'en-us'
 title = 'Vroom! The Blog for Bay Country Driving School'
 theme = "bcds"
@@ -19,7 +19,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     address     = "8673 Commerce Dr #11, Easton, MD 21601"
     phone       = "(410) 822-4411"
     email       = "info@baycountrydrivingschool.com"
-    lastUpdated = "July 4, 2025"
+    lastUpdated = "July, 2025"
     credit = 'DMX Studio'
 
 [caches]

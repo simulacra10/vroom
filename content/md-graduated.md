@@ -5,9 +5,6 @@ draft = false
 tags = ["Teen Driving", "Maryland Laws", "GDL", "Safe Driving", "Provisional License"]
 +++
 
-# Understanding Maryland’s Graduated Driver Licensing Laws  
-*A Breakdown of Provisional Licensing, Curfews, and Penalties*
-
 Learning to drive is a huge milestone. For many teens, it’s a rite of passage—another step toward independence. For parents, it’s equal parts pride and panic. But before anyone hits the road solo, there’s a system in place to make sure new drivers are ready: Maryland’s **Graduated Driver Licensing (GDL)** program.
 
 The GDL is designed to ease young drivers into the responsibilities of the road through a step-by-step process. It’s not meant to be a hassle—it’s actually there to protect everyone, especially new drivers. So if you're a teen, a parent of one, or just someone trying to understand the rules better, here’s a friendly breakdown of how Maryland’s GDL works—especially the **provisional license**, **curfews**, and **penalties**.
