@@ -2,51 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://vroom.baycountrydrivingschool.com/car-basics/</loc>
+    <loc>http://localhost:1313/tags/2025/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cars/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/first-time-buyers/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/safety/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/top-5-cars-for-new-drivers-2025/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-08T18:00:00-04:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/car-basics/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/car-maintenance/</loc>
+    <loc>http://localhost:1313/tags/car-maintenance/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/driving-tips/</loc>
+    <loc>http://localhost:1313/tags/driving-tips/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/gdl/</loc>
+    <loc>http://localhost:1313/tags/gdl/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/maryland-laws/</loc>
+    <loc>http://localhost:1313/tags/maryland-laws/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/new-drivers/</loc>
+    <loc>http://localhost:1313/tags/new-drivers/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/provisional-license/</loc>
+    <loc>http://localhost:1313/tags/provisional-license/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/safe-driving/</loc>
+    <loc>http://localhost:1313/tags/safe-driving/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/</loc>
+    <loc>http://localhost:1313/tags/teen-drivers/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/teen-drivers/</loc>
+    <loc>http://localhost:1313/tags/teen-driving/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/teen-driving/</loc>
+    <loc>http://localhost:1313/md-graduated/</loc>
     <lastmod>2025-07-04T08:00:00-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/md-graduated/</loc>
-    <lastmod>2025-07-04T08:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/</loc>
-    <lastmod>2025-07-04T08:00:00-04:00</lastmod>
-  </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/tags/guide/</loc>
+    <loc>http://localhost:1313/tags/guide/</loc>
     <lastmod>2025-06-01T16:38:19-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/partents-guide-to-coaching-a-teen-btw/</loc>
+    <loc>http://localhost:1313/partents-guide-to-coaching-a-teen-btw/</loc>
     <lastmod>2025-06-01T16:38:19-04:00</lastmod>
   </url><url>
-    <loc>https://vroom.baycountrydrivingschool.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url>
 </urlset>

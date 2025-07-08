@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guide on Vroom! The Blog for Bay Country Driving School</title>
-    <link>https://vroom.baycountrydrivingschool.com/tags/guide/</link>
+    <link>http://localhost:1313/tags/guide/</link>
     <description>Recent content in Guide on Vroom! The Blog for Bay Country Driving School</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 01 Jun 2025 16:38:19 -0400</lastBuildDate>
-    <atom:link href="https://vroom.baycountrydrivingschool.com/tags/guide/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/guide/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parents Guide to Coaching a Teen Behind The Wheel</title>
-      <link>https://vroom.baycountrydrivingschool.com/partents-guide-to-coaching-a-teen-btw/</link>
+      <link>http://localhost:1313/partents-guide-to-coaching-a-teen-btw/</link>
       <pubDate>Sun, 01 Jun 2025 16:38:19 -0400</pubDate>
-      <guid>https://vroom.baycountrydrivingschool.com/partents-guide-to-coaching-a-teen-btw/</guid>
+      <guid>http://localhost:1313/partents-guide-to-coaching-a-teen-btw/</guid>
       <description>&lt;p&gt;&lt;strong&gt;The Parent’s Guide to Coaching a Teen Behind the Wheel&lt;/strong&gt;&#xA;&lt;em&gt;Tips for Being Calm, Safe, and Effective During Practice Drives&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;Teaching your teen to drive is one of the most rewarding — and nerve-wracking — milestones of parenthood. You&amp;rsquo;re not just handing over the keys; you&amp;rsquo;re guiding them toward independence and responsibility. Whether you&amp;rsquo;re a seasoned driver or still flinch at every lane change, your role as a coach can make all the difference in your teen’s driving success and safety.&lt;/p&gt;</description>
     </item>
   </channel>
