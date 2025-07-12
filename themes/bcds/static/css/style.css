@@ -26,6 +26,11 @@ html, body {
 
 
 
+
+
+
+
+
 .read-more {
   color: #ff914d;
 }
@@ -5363,10 +5368,17 @@ div#faqs {
     font-size: 40px !important;
   }
   .container {
-    max-width: 1200px;
-    width: 100%;
-  }
-  .info {
+    /* max-width: 1200px; 
+    width: 100%; */
+
+  width:     100%;
+  max-width: 100%;
+  margin:    0 auto;
+  padding:   0 1rem;
+  
+}
+
+.info {
     min-height: 210px
   }
   .backtotop .visible-lg {
@@ -6703,4 +6715,35 @@ div#DSSLanguageTranslateorWidget.bl.clsfloat  .DSSFloatbox__list
 }
 
 
+/*—————————————————————————————————————————————————————
+  CUSTOM MOBILE OVERRIDES — full-width + stacked cols
+—————————————————————————————————————————————————————*/
+@media (max-width: 767px) {
+  /* make all your main wrappers truly fluid */
+  .container,
+  .container-fluid,
+  .content-wrapper,
+  #main,
+  section,
+  article {
+    width:       100%     !important;
+    max-width:   100%     !important;
+    margin:      0 auto   !important;
+    padding:     0 1rem   !important;
+  }
+
+  /* force any row/layout to stack vertically */
+  .row,
+  .layout {
+    display:         flex        !important;
+    flex-direction:  column      !important;
+    gap:             1rem        !important;
+  }
+
+  /* ensure any col-* children go full width */
+  .row > [class*="col-"] {
+    flex:        0 0 100%        !important;
+    max-width:   100%            !important;
+  }
+}
 
